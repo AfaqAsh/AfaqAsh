@@ -1,5 +1,5 @@
 # 👋 Hey There:
-I am a Product Designer with a focus in UX research and design. I specialize in understanding user needs and behavior to drive the development of innovative and user-centered digital products. I am passionate about uncovering insights that inform product design and strategy. I am deeply interested in designing for the developing context, as their needs are often overlooked when designing technology.<br>My research interests lie in the domain of Usable Privacy and Security, Information and Communication Technology For Development, XR, and Data Science.
+I am a Product Designer with a focus in UX research and design. I specialize in understanding user needs and behavior to drive the development of innovative and user-centered digital products. I am deeply interested in designing for the developing context, as their needs are often overlooked when designing technology.<br>My research interests lie in the domain of Usable Privacy and Security, Information and Communication Technology For Development, XR, and Data Science.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AfaqAsh&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
